@@ -1,0 +1,9 @@
+entity Vehicle {
+    id
+    manufacturer
+    cost
+}
+
+entity Car extends Vehicle {
+    serial_nr
+}
