@@ -18,6 +18,6 @@ except Exception as ex:
     print(ex)
 finally:
     connection.close()
-    print("coneccion finalizada!")
+    print("coneccion finalizada")
 
 
